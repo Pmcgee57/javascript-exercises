@@ -35,7 +35,7 @@ const factorial = function(n) {
     product *= i;
   }
   return product;
-};
+}; 
 
 // Do not edit below this line
 module.exports = {
